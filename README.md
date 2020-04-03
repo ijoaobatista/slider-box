@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://mjobi.com/html/src/img/public/logo-slider.svg" alt="Slide logo" width=72 height=72>
+    <img src="" alt="Slide logo" width=72 height=72>
     <h3 align="center">Slider</h3>
     <p align="center">
         Simples, leve e intuitivo. Adicione um toque de elegância ao seu projeto.
@@ -7,7 +7,7 @@
         <a href="https://mjobi.com"><strong>Conheça Mjobi »</strong></a>
         <br>
         <br>
-        <img src="https://mjobi.com/html/src/img/public/cover-apresentacao.svg" alt="Capa demo" min-width="100%">
+        <img src="" alt="Capa demo" min-width="100%">
     </p>
 </p>
 <br>
@@ -212,7 +212,7 @@ preload(config.image);
 
 Você pode querer fazer algumas modificações no design. Então de forma fácil entenda seu layout e veja algumas formas de modificar sua aparência.
 
-<img src="https://mjobi.com/html/src/img/public/cover-lay.svg" src="Slider layout" min-width="100%">
+<img src="" alt="Slider layout" min-width="100%">
 
 ### Redefinindo largura
 
