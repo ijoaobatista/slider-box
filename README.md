@@ -1,18 +1,16 @@
 <p align="center">
-    <img src="" alt="Slide logo" width=72 height=72>
+    <img src="logo.svg" alt="Slide logo" width=72 height=72>
     <h3 align="center">Slider</h3>
     <p align="center">
         Simples, leve e intuitivo. Adicione um toque de elegância ao seu projeto.
         <br>
-        <a href="https://mjobi.com"><strong>Conheça Mjobi »</strong></a>
         <br>
-        <br>
-        <img src="" alt="Capa demo" min-width="100%">
+        <img src="screenshot.png" alt="Capa demo">
     </p>
 </p>
 <br>
 
-## Atalho de conteúdo
+## índice
 
 - [Instalando](#instalando)
 - [Arquivos](#arquivos)
@@ -27,12 +25,10 @@
     - [Redefinindo largura](#redefinindo-largura)
     - [Cor de fundo do título](#cor-de-fundo-do-título)
     - [Removendo controles](#removendo-controles)
-- [Criador](#criador)
-- [Licença](#licença)
 
-## Instalando
+## Começo rápido
 
-Adicione ao seu projeto o arquivo de estilo `` ../slide.css `` e o arquivo de script `` ../slide.js ``, não esqueça de inserir [jQuery](https://jquery.com/) ao seu projeto. Deve ficar algo parecido com isto:
+Adicione ao seu projeto o arquivo de estilo ``slide.css`` e o arquivo de script ``slide.js``, não esqueça de inserir [jQuery](https://jquery.com/) ao seu projeto. Deve ficar algo parecido com isto:
 
 ```html
 <!DOCTYPE html>
@@ -212,8 +208,6 @@ preload(config.image);
 
 Você pode querer fazer algumas modificações no design. Então de forma fácil entenda seu layout e veja algumas formas de modificar sua aparência.
 
-<img src="" alt="Slider layout" min-width="100%">
-
 ### Redefinindo largura
 
 #### CSS
@@ -258,13 +252,3 @@ $('.slider-content-top').css('background-color', 'rgba(0,0,0,.5)');
 ```javascript
 $('.slider-dots').hide();
 ```
-
-## Criador
-
-**João Batista**
-- [Instagram](https://instagram.com/ijoaobatista)
-- [Facebook](https://www.facebook.com/profile.php?id=100028853151668)
-## Licença
-
-Copyright 2018. Licença [MIT License](https://github.com/ijoaobatista/slider/blob/master/LICENSE)
-
